@@ -1,0 +1,1 @@
+## Each year the contest is held, a folder is created to capture the eventful moments in the database.
